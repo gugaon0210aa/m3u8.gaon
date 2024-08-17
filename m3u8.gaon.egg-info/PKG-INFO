@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: m3u8.gaon
+Version: 0.1.0
+Summary: A simple package to download and combine m3u8 video segments
+Home-page: https://github.com/gugaon0210aa/m3u8.gaon
+Author: gugaon0210
+Author-email: ngng01010@naver.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Requires-Dist: m3u8
+
+# m3u8_downloader
+
+A simple Python package to download and combine m3u8 video segments into a single video file.
+
+## Installation
+
+```bash
+pip install m3u8_downloader

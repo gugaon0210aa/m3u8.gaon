@@ -1,0 +1,7 @@
+README.md
+setup.py
+m3u8.gaon.egg-info/PKG-INFO
+m3u8.gaon.egg-info/SOURCES.txt
+m3u8.gaon.egg-info/dependency_links.txt
+m3u8.gaon.egg-info/requires.txt
+m3u8.gaon.egg-info/top_level.txt
