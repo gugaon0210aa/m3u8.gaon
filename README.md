@@ -5,4 +5,4 @@ A simple Python package to download and combine m3u8 video segments into a singl
 ## Installation
 
 ```bash
-pip install m3u8_downloader
+pip install m3u8.gaon
